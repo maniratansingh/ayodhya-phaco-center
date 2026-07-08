@@ -1,0 +1,40 @@
+# Ayodhya Phaco Center
+
+> Premium cataract surgery and advanced eye care hospital in Ayodhya, Uttar Pradesh, India. Government-approved Ayushman Bharat Yojana partner offering 100% cashless surgeries for eligible patients, alongside private premium diagnostic, laser, and surgical services.
+
+## Pages
+
+- [Home – Desktop](http://ayodhyaphacocenter.org/index.html): Full desktop website with hero section, eye disease services, diagnostics equipment, welfare scheme information, operating hours, gallery, and contact details.
+- [Home – Mobile](http://ayodhyaphacocenter.org/mobile.html): Mobile-optimised version of the same content, designed for smartphone screens.
+
+## Services
+
+- [Cataract Surgery](http://ayodhyaphacocenter.org/index.html#services): Micro-incision stitchless phacoemulsification with premium IOL options including Toric, Multifocal, and monofocal lenses.
+- [Glaucoma Treatment](http://ayodhyaphacocenter.org/index.html#services): Ocular pressure management, computerised visual field testing, and laser glaucoma treatment.
+- [Oculoplastic Surgery](http://ayodhyaphacocenter.org/index.html#services): Eyelid, tear duct, socket, and reconstructive orbit micro-surgery.
+- [Squint Correction](http://ayodhyaphacocenter.org/index.html#services): Ocular muscle realignment for children and adults.
+- [Diabetic Retinopathy](http://ayodhyaphacocenter.org/index.html#services): Retinal screening and laser treatment for diabetic eye disease.
+- [Computer Vision Syndrome](http://ayodhyaphacocenter.org/index.html#services): Diagnosis and management of screen-related eye strain.
+- [Optical & Refractive Services](http://ayodhyaphacocenter.org/index.html#services): Computerised refraction, prescription glasses, and spectacle services.
+
+## Diagnostics Equipment
+
+- [Advanced Diagnostics](http://ayodhyaphacocenter.org/index.html#diagnostics): Retinal Fundus Camera, Visual Field Auto Perimeter, Retinal Green Laser, B-Scan Ophthalmic Ultrasound, Zeiss Surgical Microscope, Non-Contact Tonometer.
+
+## Welfare & Government Schemes
+
+- [Ayushman Bharat Yojana](http://ayodhyaphacocenter.org/index.html#welfare): 100% cashless cataract surgeries and post-operative care for PM-JAY cardholders. No out-of-pocket cost for eligible beneficiaries.
+- [NPCB Free Surgeries](http://ayodhyaphacocenter.org/index.html#welfare): Free cataract surgeries under the National Programme for Control of Blindness for below-poverty-line patients.
+
+## Contact & Location
+
+- [Contact Us](http://ayodhyaphacocenter.org/index.html#contact): Sabzi Mandi Road Near Asharfi Bhawan, Ayodhya, Uttar Pradesh – 224123.
+- Phone (Primary Inquiry): +91-9336466677
+- Phone (Senior Administrator): +91-9415140719
+- Email: apc@piecs.org
+- Working Hours: Monday–Saturday, 9:00 AM – 6:00 PM
+
+## Associated Hospitals
+
+- Sant Kabir Eye Hospital: Sabzi Mandi Road, Ayodhya. Contact: Akhand Singh, +91-8604152909, skeh@piecs.org
+- Sunbeam Eye Hospital: Contact: Afasar Mirza, +91-9670500097, sbeh@piecs.org
