@@ -278,12 +278,9 @@ a {
     width: 44px;
     height: 44px;
     border-radius: var(--radius-sm);
-    background-color: var(--primary);
-    color: var(--text-light);
     display: flex;
     align-items: center;
     justify-content: center;
-    box-shadow: 0 4px 10px rgba(13, 110, 253, 0.2);
     flex-shrink: 0;
 }
 
