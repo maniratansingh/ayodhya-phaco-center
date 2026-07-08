@@ -275,8 +275,8 @@ a {
 }
 
 .logo-icon {
-    width: 44px;
-    height: 44px;
+    width: 52px;
+    height: 52px;
     border-radius: var(--radius-sm);
     display: flex;
     align-items: center;
@@ -1309,8 +1309,8 @@ a {
         font-size: 0.68rem !important;
     }
     .logo-icon {
-        width: 38px !important;
-        height: 38px !important;
+        width: 46px !important;
+        height: 46px !important;
     }
     .logo-icon svg {
         width: 20px !important;
