@@ -3,7 +3,7 @@
 Welcome to the official repository for the **Ayodhya Phaco Center** website.
 
 ## About Us
-[Ayodhya Phaco Center](https://ayodhyaphacocenter.piecs.org) is a certified premium eye care and cataract surgery clinic located in Ayodhya, Uttar Pradesh. We specialize in advanced eye diagnostics, laser treatments, and premium cataract surgeries. We proudly offer free surgeries under the PM-JAY Ayushman Bharat Yojana for eligible patients.
+[Ayodhya Phaco Center](https://ayodhyaphacocenter.piecs.org) - Direct Link: https://ayodhyaphacocenter.piecs.org is a certified premium eye care and cataract surgery clinic located in Ayodhya, Uttar Pradesh. We specialize in advanced eye diagnostics, laser treatments, and premium cataract surgeries. We proudly offer free surgeries under the PM-JAY Ayushman Bharat Yojana for eligible patients.
 
 ## Features
 - **Responsive Design**: Custom-built adaptive layouts for both desktop and mobile devices.
